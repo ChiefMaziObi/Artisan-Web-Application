@@ -1,0 +1,10 @@
+Installation Step for custom application
+
+	Create a MySQL Database
+	Import database from installation folder named artisan.sql
+	Navigate to @core and open .env file to update database record, username, and password.
+	Make sure local server is running.
+	On browser type localhost/(directory name) e.g localhost/artisanhelp
+	To navigate to admin dashboard, use localhost/(directory name)/admin/login
+	For admin credentials username=super_admin 
+	For admin credentials password=12345678
